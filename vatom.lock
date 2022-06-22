@@ -1,7 +1,7 @@
 {
   "id": "jjv360.entry-notification",
   "name": "Entry Alert",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "beta": true,
   "description": "Be notified when a person enters your space",
   "longDescription": "This plugin sends an alert to people in the space when a new person enters. You can choose to either play a sound, show an alert popup, or both.",
@@ -10,5 +10,5 @@
   "businessId": "cDFoSSRVe4",
   "price": 0.99,
   "releaseNotes": "n/a",
-  "entrypoint": ""
+  "entrypoint": "https://plugins.vatom.com/cDFoSSRVe4/08c310d2eb61619fb3c851361855503e/plugin.js"
 }

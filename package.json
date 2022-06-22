@@ -1,8 +1,9 @@
 {
   "name": "jjv360.entry-notification",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A plugin for Vatom Spaces.",
   "main": "src/index.js",
+  "private": true,
   "scripts": {
     "build": "webpack",
     "publish": "npx -p @vatom/cli vatom plugin publish",

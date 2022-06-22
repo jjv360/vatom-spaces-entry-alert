@@ -101,7 +101,7 @@ export default class MyPlugin extends BasePlugin {
         if (this.getField('play-sound')) {
 
             // Play a sound
-            this.audio.play(absolutePath('./enter.wav'))
+            this.audio.play(absolutePath('./enter.wav'), { volume: 0.5 })
 
         }
 
